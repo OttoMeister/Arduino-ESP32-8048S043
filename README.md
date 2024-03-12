@@ -2,9 +2,8 @@
 
 ESP32-S3 HMI 8M PSRAM 16M Flash 4.3" 480*270 Display with Capacitive touch screen <br>
 
-[Aliexpress 1](https://www.aliexpress.us/item/3256805374605803.html), 
-[Aliexpress 2](https://www.aliexpress.com/item/1005004788147691.html),
-[Aliexpress 3](https://www.aliexpress.com/item/1005004788147691.html)
+[Aliexpress 1](https://www.aliexpress.com/item/1005004788147691.html),
+[Aliexpress 2](https://www.aliexpress.com/item/1005004788147691.html)
 
 
 ## More infos
