@@ -42,15 +42,28 @@ Libary Manager -> TFT_eSPI -> search and install: HTTPClient by A.McEwen ver 2.2
 Libary Manager -> TFT_eSPI -> search and install: ArduinoJson.h by B.Blanchon ver 7.0.4 <br>
 Bords Manager -> ESP32 search and install esp32 by Espressif Sytems  <br>
 Select Board and Port -> ESP323S Dev Module
--CPU Frequency : “240MHz (WiFi/BT)” <br>
--Core Degug Level : “Verbose” <br>
--Flash Frequency : “80MHz” <br>
--Flash Mode : “QIO” or “DIO” <br>
--Flash Size : “4MB (32Mb)” <br>
--Partition Scheme : “Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)” <br>
--PSRAM : “Disabled” <br>
+
+-USB CDC On Boot: "Disabled” <br>
+-CPU Frequency: “240MHz (WiFi)” <br>
+-Core Degug Level: “Verbose” <br>
+-USB DFU On Boot: "Disabled” <br>
+-Erase All Flash Befor Sketch Upload: "Disabled” <br>
+-Events Run On: "Core 1" <br>
+-Flash Mode : “QIO 80MHz" <br>
+-Flash Size : “16MB (128Mb)” <br>
+-JTAG Adapter: "Disabled" <br>
+-Arduino Runs On: "Core 1" <br>
+-USB Firmware MSC On Boot: "Disabled" <br>
+-Partition Scheme : “No OTA (1MB APP/3MB SPIFFS)” <br>
+-PSRAM : “OPI PSWAM” <br>
+-Upload Mode: "UART0 / Hardware CDC" <br>
 -Upload Speed: “921600”  <br>
+-USB Mode: "Hardware CDC and JTAG" <br>
+
 
 ## config library:<br>
+
+#include <lgfx_user/LGFX_ESP32S3_RGB_ESP32-8048S043.h>
+
 
 xxxxxxx <br>
