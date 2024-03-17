@@ -36,7 +36,6 @@ Menü -> File -> Preferences -> Language -> English <br>
 Menü -> File -> Preferences -> Show verbose output during compile und upload -> check <br>
 Menü -> File -> Preferences -> Compiler warnings -> Default <br>
 Menü -> File -> Preferences -> OK <br>
-Libary Manager -> TFT_eSPI -> search and install: TFT_eSPI by Bodmer ver 2.5.43 <br>
 Libary Manager -> TFT_eSPI -> search and install: LovyanGFX by lovyan03 ver 1.1.12 <br>
 Libary Manager -> TFT_eSPI -> search and install: NTPClient by F.Weinberg ver 3.2.1 <br>
 Libary Manager -> TFT_eSPI -> search and install: HTTPClient by A.McEwen ver 2.2.0 <br>
@@ -54,4 +53,4 @@ Select Board and Port -> ESP323S Dev Module
 
 ## config library:<br>
 
-Save <br>
+xxxxxxx <br>
