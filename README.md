@@ -1,6 +1,6 @@
 # ESP32-8048S043C
 
-ESP32-S3 HMI 8M PSRAM 16M Flash 4.3" 800x480 or 480x270 (not sure yet) Display with Capacitive touch screen <br>
+ESP32-S3 HMI 8M PSRAM 16M Flash 4.3" 800x480 Display with Capacitive touch screen <br>
 
 [Aliexpress 1](https://www.aliexpress.com/item/1005004788147691.html),
 [Aliexpress 2](https://www.aliexpress.com/item/1005004788147691.html)
