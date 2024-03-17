@@ -26,9 +26,9 @@ chmod u+x ~/Schreibtisch/arduino-ide_nightly-latest_Linux_64bit.AppImage
 
 ## Install Arduino IDE 2.3.0 on Windows 
 Download from here:
-```
+
 [https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.0_Windows_64bit.exe](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.2_Windows_64bit.exe)
-```
+
 Start the installer, klick yes to everything.
 
 ## Settings in Arduino IDE:<br>
