@@ -12,6 +12,8 @@ ESP32-S3 HMI 8M PSRAM 16M Flash 4.3" 800x480 Display with Capacitive touch scree
 [Info 3](https://wiki.makerfabs.com/Sunton_ESP32_S3_4.3_inch_800x400_IPS_with_Touch.html),
 [Info 4](https://github.com/rzeldent/esp32-smartdisplay)
 
+![df245b6c-5524-40ee-a70a-4b203524e158](https://github.com/OttoMeister/ESP32-8048S043/assets/12480979/ae64a7db-67a5-4202-85ab-ecb70a0ac7fe)
+![974e069a-b0f7-43e9-be02-33be52a00282](https://github.com/OttoMeister/ESP32-8048S043/assets/12480979/aa150e40-2d20-4e28-9e2a-cb49a6a35ddd)
 
 
 ## How to install ARDUINO IDE nightly with on Linux
