@@ -65,5 +65,3 @@ Select Board and Port -> ESP323S Dev Module
 
 #include <lgfx_user/LGFX_ESP32S3_RGB_ESP32-8048S043.h>
 
-
-xxxxxxx <br>
