@@ -11,10 +11,10 @@ ESP32-8048S043C ARDUINO IDE 2.3.3 ESP32-S3, 8M PSRAM 16M Flash 4.3" 800x480
 
 
 // prepare WiFi
-const char* ssid = "qwertzu";         // Replace with your
-const char* password = "Micro-Fine";  // WiFi credentials
+const char* ssid = "xxxxxxxxx";         // Replace with your
+const char* password = "xxxxxxxxxxxxxx";  // WiFi credentials
 // search your next airport here and get the ICAO code  "https://en.wikipedia.org/wiki/ICAO_airport_code"
-const char* metar = "https://aviationweather.gov/api/data/metar?ids=SPJC&format=json";  // KDEN = Denver
+const char* metar = "https://aviationweather.gov/api/data/metar?ids=KDEN&format=json";  // KDEN = Denver
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP);
 int wifiTimeOutCounter = 0;
