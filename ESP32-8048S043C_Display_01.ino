@@ -34,11 +34,6 @@ TFT_eSprite spr = TFT_eSprite(&tft);
 uint16_t palette[16] = { TFT_BLACK, TFT_GREENYELLOW, TFT_NAVY, TFT_ORANGE, TFT_DARKCYAN, TFT_MAROON,
                          TFT_PURPLE, TFT_PINK, TFT_LIGHTGREY, TFT_YELLOW, TFT_BLUE,
                          TFT_GREEN, TFT_CYAN, TFT_RED, TFT_MAGENTA, TFT_BLUE };
-/*
-uint16_t palette[16] = { TFT_GREENYELLOW, TFT_NAVY, TFT_ORANGE, TFT_DARKCYAN, TFT_MAROON,
-                         TFT_PURPLE, TFT_PINK, TFT_LIGHTGREY, TFT_YELLOW, TFT_BLUE,
-                         TFT_GREEN, TFT_CYAN, TFT_RED, TFT_MAGENTA, TFT_BLUE, TFT_WHITE };
-*/
 
 // set global variables for the weather information
 int temperature = 0;  // °C
