@@ -1,4 +1,4 @@
-# ESP32-8048S043C
+# Arduino ESP32-8048S043C
 
 ESP32-S3 HMI 8M PSRAM 16M Flash 4.3" 800x480 Display with Capacitive touch screen <br>
 
