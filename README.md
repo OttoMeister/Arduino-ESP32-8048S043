@@ -67,3 +67,6 @@ Select Board and Port -> ESP323S Dev Module
 
 #include <lgfx_user/LGFX_ESP32S3_RGB_ESP32-8048S043.h>
 
+## License
+This project is released under the WTFPL LICENSE.
+<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" /></a>
